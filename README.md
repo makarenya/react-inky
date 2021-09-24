@@ -2,23 +2,23 @@
 
 > React components for Inky
 
-[![Travis](https://badgen.now.sh/travis/gakimball/react-inky)](https://travis-ci.org/gakimball/react-inky) [![npm](https://badgen.now.sh/npm/v/react-inky)](https://www.npmjs.com/package/react-inky)
+[![Travis](https://badgen.now.sh/travis/makarenya/react-inky)](https://travis-ci.org/makarenya/react-inky) [![npm](https://badgen.now.sh/npm/v/react-inky)](https://www.npmjs.com/package/react-inky)
 ![8 tentacles](https://badgen.now.sh/badge/tentacles/8/purple)
 
 ## Installation
 
 ```bash
-npm install react-inky --save
+npm install @makarenya/react-inky --save
 ```
 
 ## Documentation
 
-[Read the documentation](https://gakimball.github.io/react-inky/)
+[Read the documentation](https://makarenya.github.io/react-inky/)
 
 ## Local Development
 
 ```bash
-git clone https://github.com/gakimball/react-inky
+git clone https://github.com/makarenya/react-inky
 cd react-inky
 npm install
 ```
