@@ -4,7 +4,7 @@ import React from 'react';
 import {renderToStaticMarkup} from 'react-dom/server';
 import chai, {expect} from 'chai';
 import Enzyme from 'enzyme';
-import Adapter from 'enzyme-adapter-react-16';
+import Adapter from '@wojtekmaj/enzyme-adapter-react-17';
 import chaiHtml from 'chai-html';
 import dirtyChai from 'dirty-chai';
 import Inky from '..';
